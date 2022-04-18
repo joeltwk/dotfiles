@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joeltwk@gmail.com
+	name = Joel Tang
